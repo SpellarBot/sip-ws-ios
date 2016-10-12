@@ -1,0 +1,8 @@
+/* 
+  Localizable.strings
+  FCall_Native_proj
+
+  Created by Tan Tan on 7/27/16.
+
+*/
+"CONFIRM_SEND_SMS" = "Bạn có muốn gửi tin nhắn SMS này không?";

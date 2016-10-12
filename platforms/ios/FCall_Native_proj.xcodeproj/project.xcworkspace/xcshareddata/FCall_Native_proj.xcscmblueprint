@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "c2a09dcd-d295-47e0-8ea5-8b811ff555e2++5431",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "c2a09dcd-d295-47e0-8ea5-8b811ff555e2++5431" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "c2a09dcd-d295-47e0-8ea5-8b811ff555e2++5431" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "76D30A48-4632-4483-B62B-578482ABBDDB",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "c2a09dcd-d295-47e0-8ea5-8b811ff555e2++5431" : "ios\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "FCall_Native_proj",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "FCall_NewPush\/FCall_Source\/platforms\/ios\/FCall_Native_proj.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/fproject.fpt.vn\/svn\/voice-video-call",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "c2a09dcd-d295-47e0-8ea5-8b811ff555e2++5431"
+    }
+  ]
+}
